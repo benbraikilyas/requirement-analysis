@@ -150,7 +150,7 @@ This ensures that the final product not only meets technical specifications but 
 3. Basis for Planning and Implementation
 ------------------------
 
-# Key Activities in Requirement Analysis
+# Key Activities in Requirement Analysis :
 
    1. Requirements Gathering
 
@@ -197,4 +197,27 @@ Use reviews, prototypes, or early acceptance tests to confirm compliance with us
 Explanation: Clear requirements serve as the primary reference for system design, coding, and acceptance testing.
 
 They also help in estimating resources (time, costs, personnel) and setting development priorities, making the project more organized and efficient.
+-------------------------------
+# Types of Requirements :
+### 1. Functional Requirements
+Functional requirements describe **what the system should do** in terms of features and tasks that serve the users.
+
+**Examples from the Booking Management System:**
+- The system must allow users to create a new account using email and password.
+- The system must enable users to search for available booking slots by date and service type.
+- The system must send a confirmation email when a booking is created.
+- The system must allow staff members to modify or cancel bookings.
+- The system must allow managers to generate monthly reports on completed and cancelled bookings.
+
+---
+
+### 2. Non-Functional Requirements
+Non-functional requirements describe **how the system should perform**, covering quality attributes such as performance, security, usability, and reliability.
+
+**Examples from the Booking Management System:**
+- The system should respond to search queries in less than 2 seconds (≥95% of cases).
+- The system must be accessible through both web browsers and mobile devices.
+- The system must maintain 99.9% uptime throughout the week.
+- All customer data (e.g., passwords) must be encrypted using modern security standards.
+- The system should be capable of processing up to 10,000 bookings per day without downtime.
 
