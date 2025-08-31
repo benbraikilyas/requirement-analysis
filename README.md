@@ -131,3 +131,26 @@ Have we covered non-functionality?
 Do we have corresponding acceptance criteria and tests?
 
 Is the traceability from objectives → requirements → tests complete?
+---------------------
+# Why is Requirement Analysis Important?
+✅ In short: Requirement Analysis is important because it ensures the right product is built, reduces risks and costs, and provides a solid foundation for successful software development.
+
+1. Reducing Risks and Costs
+
+Explanation: Most software project failures are due to unclear, incomplete, or constantly changing requirements.
+
+By carefully analyzing requirements at the outset, we can identify inconsistencies or ambiguities early, thus reducing costly rework at later stages (such as during testing or after launch).
+
+2. Ensuring User and Customer Needs Are Met
+
+Explanation: Analysis links what stakeholders (users, customers, management) require with what the team will deliver.
+
+This ensures that the final product not only meets technical specifications but also delivers real value and meets expectations.
+
+3. Basis for Planning and Implementation
+
+Explanation: Clear requirements serve as the primary reference for system design, coding, and acceptance testing.
+
+They also help in estimating resources (time, costs, personnel) and setting development priorities, making the project more organized and efficient.
+
+✨ In short: Requirements analysis is important because it reduces risks and costs, ensures user needs are met, and provides a solid foundation for planning and implementation within the SDLC.
