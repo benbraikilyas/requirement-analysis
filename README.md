@@ -148,9 +148,53 @@ Explanation: Analysis links what stakeholders (users, customers, management) req
 This ensures that the final product not only meets technical specifications but also delivers real value and meets expectations.
 
 3. Basis for Planning and Implementation
+------------------------
+
+# Key Activities in Requirement Analysis
+
+   1. Requirements Gathering
+
+Gather preliminary information from stakeholders and various sources (interviews, questionnaires, observations).
+
+Define the overall objectives of the system and what users expect from it.
+
+Build a comprehensive understanding of the operating environment and the problems to be solved.
+
+2. Requirements Elicitation
+
+Deepen understanding through techniques such as workshops, brainstorming, observation, and prototyping.
+
+Uncover needs that users may not express directly.
+
+Deal with challenges such as ambiguity or differing stakeholder perspectives.
+
+3. Requirements Documentation
+
+Write requirements clearly and in writing in a formal document (e.g., SRS – Software Requirements Specification).
+
+Use precise, unambiguous language and define terms and concepts.
+
+Include details such as functionality, constraints, and non-functional requirements (performance, security, scalability, etc.).
+
+4. Requirements Analysis & Modeling
+
+Study requirements to identify inconsistencies, duplications, or conflicts.
+
+Categorize requirements into functional/non-functional/constraints/business objectives.
+
+Create models and diagrams (UML, use cases, data flow diagrams) to illustrate relationships and processes.
+
+Prioritize requirements to ensure the most important are focused on first.
+
+5. Requirements Validation
+
+Review requirements with stakeholders to ensure they are correct and complete.
+
+Ensure requirements are verifiable, testable, and implementable.
+
+Use reviews, prototypes, or early acceptance tests to confirm compliance with user expectations.
 
 Explanation: Clear requirements serve as the primary reference for system design, coding, and acceptance testing.
 
 They also help in estimating resources (time, costs, personnel) and setting development priorities, making the project more organized and efficient.
 
-✨ In short: Requirements analysis is important because it reduces risks and costs, ensures user needs are met, and provides a solid foundation for planning and implementation within the SDLC.
