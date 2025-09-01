@@ -220,4 +220,21 @@ Non-functional requirements describe **how the system should perform**, covering
 - The system must maintain 99.9% uptime throughout the week.
 - All customer data (e.g., passwords) must be encrypted using modern security standards.
 - The system should be capable of processing up to 10,000 bookings per day without downtime.
+--------------------------------
+# Acceptance Criteria
+Importance of Acceptance Criteria in Requirement Analysis
+
+Acceptance Criteria (AC) are a set of predefined conditions that a product or feature must meet to be considered complete and acceptable by stakeholders. They serve as a bridge between business requirements and technical implementation, ensuring that everyone — business analysts, developers, testers, and product owners — share a common understanding of what "done" means.
+
+Key benefits of Acceptance Criteria:
+
+Clarity: Removes ambiguity by explicitly defining the boundaries of a requirement.
+
+Testability: Provides measurable conditions that can be validated through testing.
+
+Alignment: Ensures stakeholders and the development team agree on expectations.
+
+Scope Control: Prevents scope creep by clearly stating what is included (and excluded).
+
+Quality Assurance: Acts as a checklist to confirm that all user needs and business rules are met.
 
